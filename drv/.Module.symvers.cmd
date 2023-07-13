@@ -1,0 +1,1 @@
+cmd_/media/psf/Code/Android_homework/drv/Module.symvers := sed 's/\.ko$$/\.o/' /media/psf/Code/Android_homework/drv/modules.order | scripts/mod/modpost -m -a  -o /media/psf/Code/Android_homework/drv/Module.symvers -e -i Module.symvers   -T -

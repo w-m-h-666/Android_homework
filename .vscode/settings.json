@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "module.h": "c",
+        "errno.h": "c",
+        "memory": "c",
+        "seq_file.h": "c",
+        "types.h": "c",
+        "proc_fs.h": "c"
+    }
+}
